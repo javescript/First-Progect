@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>	
-			<head>
-			<title>Twitter Account Hacker</title>
-			</head>
+
 	<body>
 			<h1>This Is A Twitter Hacker.</h1>
 			<h1>This is my first website and it took me a .</h1>
